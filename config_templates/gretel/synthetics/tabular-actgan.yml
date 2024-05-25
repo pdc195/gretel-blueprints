@@ -17,4 +17,4 @@ models:
             num_records: 5000
         privacy_filters:
             outliers: null # Set to "auto" for additional protections
-            similarity: null # Set to "auto" for additional protections
+            similarity: auto # Set to "auto" for additional protections
